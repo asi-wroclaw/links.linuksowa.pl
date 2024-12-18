@@ -42,7 +42,7 @@
 .button-sesja-linuksowa {
 	--button-text:#ffffff;
 	--button-background:#000000;
-	--button-border:1px solid #ffffff;
+	--button-border:1px solid #000000;
 }
 
 /* Default */
