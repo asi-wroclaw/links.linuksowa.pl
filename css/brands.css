@@ -31,6 +31,20 @@
 /* Brand-Specific Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+/* WWW */
+.button-www {
+	--button-text:#000000;
+	--button-background:#ffffff;
+	--button-border:1px solid #212121;
+}
+
+/* Sesja Linuksowa */
+.button-sesja-linuksowa {
+	--button-text:#ffffff;
+	--button-background:#000000;
+	--button-border:1px solid #ffffff;
+}
+
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
