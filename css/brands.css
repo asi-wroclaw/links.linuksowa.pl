@@ -373,6 +373,13 @@
 	--button-border:1px solid #212121;
 }
 
+/* Obsidian */
+.button.button-obsidian {
+	--button-text:#ffffff;
+	--button-background:#262626;
+	--button-border:1px solid #ffffff;
+}
+
 /* OnlyFans */
 .button-onlyfans {
 	--button-text:#ffffff;
@@ -597,6 +604,12 @@
 	--button-text:#ffffff;
 	--button-background:#282828;
 	--button-border:1px solid #FFFFFF;
+}
+
+/* YouTube Alt */
+.button-yt-alt {
+	--button-text:#ffffff;
+	--button-background:#FF0000;
 }
 
 /* Zoom */
